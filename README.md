@@ -1,16 +1,139 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A122E3&size=50&center=true&vCenter=true&width=1000&duration=4000&pause=1500&lines=Hello,+I´m+Arthur+Sales;FullStack+Developer+in+training;" />
+</p>
 
-<!--
-**S4les-exe/S4les-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Barra -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
+    width="100%"
+    align="center"
+  />
+  <p>&nbsp;</p>
+    
+<!--  -->
+<p
+  align="center"> 
+I'm passionate about technology and software development, with a focus on building 
+<strong>web applications, APIs, mobile development, databases</strong> and <strong>scalable solutions</strong>. 
+I'm currently developing my skills with 
+<strong>React Native, TypeScript, C#, SQL Server, .NET</strong> and <strong>AWS</strong>,
+while also exploring <strong>UI/UX</strong> and 
+different ways to create modern and intuitive digital experiences.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="./assets/Gengar.gif"
+    alt="Gengar"
+    align="center"
+    width="150"
+    style="vertical-align: center; margin: 0 10px;"
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br> 
+</br>
+</br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1&pause=10000&color=A122E3&center=true&vCenter=true&width=900&lines=Tools+and+Technologies"
+    alt="Tools and Technologies"
+  />
+</div>
+
+
+<!-- Barra -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
+    width="100%"
+    align="center"
+  />
+
+  <p>&nbsp;</p>
+    
+<!--  -->
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</br></br></br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1&pause=10000&color=A122E3&center=true&vCenter=true&width=900&lines=GitHub+Stats"
+    alt="GitHub Stats"
+  />
+</div>
+<!-- Barra -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
+    width="100%"
+    align="center"
+  />
+
+  <p>&nbsp;</p>
+    
+<!--  -->
+
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=S4les-exe&show_icons=true&theme=tokyonight&hide_border=true"/>   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=S4les-exe&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+</p>
+
+</br></br></br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1&pause=10000&color=A122E3&center=true&vCenter=true&width=900&lines=Contacts"
+    alt="Contacts"
+  />
+</div>
+<!-- Barra -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
+    width="100%"
+    align="center"
+  />
+
+  <p>&nbsp;</p>
+    
+<!--  -->
+
+<div align="center">
+
+<a href="mailto:arthurnogueira54477@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/arthur-sales-135a513a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/thur.ss11">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/S4les-exe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
