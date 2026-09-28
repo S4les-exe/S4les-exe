@@ -5,14 +5,16 @@
 </p>
 
 <!-- Barra -->
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
-    width="100%"
+    width="90%"
     align="center"
   />
   <p>&nbsp;</p>
-    
+ </div>   
 <!--  -->
+
 <p
   align="center"> 
 I'm passionate about technology and software development, with a focus on building 
@@ -44,14 +46,14 @@ different ways to create modern and intuitive digital experiences.
 
 
 <!-- Barra -->
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
-    width="100%"
+    width="60%"
     align="center"
   />
-
   <p>&nbsp;</p>
-    
+ </div>   
 <!--  -->
 
 
@@ -92,14 +94,14 @@ different ways to create modern and intuitive digital experiences.
   />
 </div>
 <!-- Barra -->
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
-    width="100%"
+    width="50%"
     align="center"
   />
-
   <p>&nbsp;</p>
-    
+ </div>   
 <!--  -->
 
 <p align="center">
@@ -116,14 +118,14 @@ different ways to create modern and intuitive digital experiences.
   />
 </div>
 <!-- Barra -->
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
-    width="100%"
+    width="60%"
     align="center"
   />
-
   <p>&nbsp;</p>
-    
+ </div>   
 <!--  -->
 
 <div align="center">
@@ -145,14 +147,14 @@ different ways to create modern and intuitive digital experiences.
   />
 </div>
 <!-- Barra -->
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2840,50:A122E3,100:3B2840&height=3"
-    width="100%"
+    width="50%"
     align="center"
   />
-
-
-    
+  <p>&nbsp;</p>
+ </div>   
 <!--  -->
 
 <div align="center">
