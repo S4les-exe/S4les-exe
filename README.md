@@ -106,7 +106,10 @@ different ways to create modern and intuitive digital experiences.
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=S4les-exe&show_icons=true&theme=tokyonight&hide_border=true"/>   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=S4les-exe&layout=compact&theme=tokyonight&hide_border=true"/>
-  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=S4les-exe&color=blueviolet&style=for-the-badge&label=Quantidade+de+Visitas"/>
+</div>
 </p>
 
 </br></br>
