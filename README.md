@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A122E3,100:3B2840&height=140&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=A122E3&size=50&center=true&vCenter=true&width=1000&duration=4000&pause=1500&lines=Hello,+I´m+Arthur+Sales;FullStack+Developer+in+training;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A122E3&size=50&center=true&vCenter=true&width=1000&duration=4000&pause=1500&lines=Hello,+I´m+Arthur+Sales;Full+Stack+Developer+in+training;" />
 </p>
 
 <!-- Barra -->
