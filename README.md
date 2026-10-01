@@ -165,7 +165,7 @@ different ways to create modern and intuitive digital experiences.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/arthur-sales-135a513a8/">
+<a href="https://www.linkedin.com/in/arthur-sales-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
